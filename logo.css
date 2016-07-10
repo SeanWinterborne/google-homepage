@@ -1,12 +1,16 @@
+.mainbody {
+	display:block;
+}
+
 .logo {
 	display: block;
 	margin: auto;
 	width: 33%;
 }
 
-form {
+.bar {
 	margin: 0 auto;
-	width: 17%;
+	width: 9%;
 }
 
 ul {
@@ -19,4 +23,15 @@ li {
     display: inline;
 	float: right;
 	padding: 5px;
+	color: blue;
+}
+
+li a {
+	display: block;
+}
+
+.buttons {
+	margin: 0 auto;
+	width: 225px;
+	padding-left: 20px;
 }
